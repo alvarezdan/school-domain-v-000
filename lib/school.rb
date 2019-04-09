@@ -1,11 +1,11 @@
 # code here!
 class School
 
-  ROSTER = {}
+  
 
   def initialize(name)
     @name = name
-    ROSTER
+    ROSTER = {}
   end
 
 end
