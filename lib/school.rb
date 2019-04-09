@@ -15,5 +15,5 @@ class School
 
   def grade(stu_grade)
     roster[stu_grade]
-
+  end
 end
